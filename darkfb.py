@@ -113,11 +113,7 @@ def an():
         print 'Free Recode ya'
         time.sleep(3)
         print 'Tapi Decrypt dulu :v'
-        time.sleep(3)
-	 print 'Menunggu redirect ke IG ea :v'
-        time.sleep(3)
-        os.system('xdg-open https://www.instagram.com/the_hackid')
-	
+        
 ##### LICENSE #####
 #=================#
 def lisensi():
