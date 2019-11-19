@@ -99,21 +99,7 @@ listgrup = []
 vulnot = "\033[31mNot Vuln"
 vuln = "\033[32mVuln"
 
-def an():
-    os.system('reset')
-    try:
-        toket = open('mew.txt', 'r').read()
-        menu()
-    except (KeyError, IOError):
-        os.system('reset')
-        print logo
-        time.sleep(1)
-        print 'Dark FB V1.9'
-        time.sleep(3)
-        print 'Free Recode ya'
-        time.sleep(3)
-        print 'Tapi Decrypt dulu :v'
-        
+
 ##### LICENSE #####
 #=================#
 def lisensi():
